@@ -1,0 +1,13 @@
+{
+  "name": "Voibe",
+  "url": "https://www.getvoibe.com/pricing/",
+  "description": "Private AI dictation and bot-free meeting notes for Mac and Windows",
+  "category": "ai",
+  "platforms": ["mac", "windows"],
+  "deal": "25% off every plan with code BFCM26",
+  "code": "BFCM26",
+  "pricing": "lifetime",
+  "price": { "regular": 199, "sale": 149.25, "currency": "USD" },
+  "discount": 25,
+  "endDate": "2026-11-30"
+}
